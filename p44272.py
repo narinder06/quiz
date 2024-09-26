@@ -1,5 +1,3 @@
-import pandas as pd
-%%writefile app.py
 
 # Load the trained Lasso regression model
 filename = 'lasso_regression_model.sav'
